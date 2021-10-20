@@ -1,0 +1,16 @@
+{
+  "name": "blog-website",
+  "version": "1.0.0",
+  "description": "A standard blog website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kieran Arul",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.11"
+  }
+}
