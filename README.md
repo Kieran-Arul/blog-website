@@ -8,11 +8,11 @@
 
 1\. Clone the repository to your local machine
 	
-	git clone https://github.com/Kieran-Arul/book-music-library
+	git clone https://github.com/Kieran-Arul/blog-website
 
 2\. cd into the project directory
 
-	cd book-music-library
+	cd blog-website
 
 3\. Run the following command to install the necessary dependencies
 
@@ -20,7 +20,7 @@
   
 4\. Start your local MongoDB server by running:
 
-    mongod
+    	mongod
   
 4\. Run the following command to start a server on Port 3000:
 
