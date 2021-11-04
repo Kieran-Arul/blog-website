@@ -22,10 +22,10 @@
 
 	mongod
   
-4\. Run the following command to start a server on Port 3000:
+5\. Run the following command to start a server on Port 3000:
 
   	npm start
   
-5\. Open up your internet browser and go to http://localhost:3000/
+6\. Open up your internet browser and go to http://localhost:3000/
   
-6\. You should now be able to browse the website
+7\. You should now be able to browse the website
